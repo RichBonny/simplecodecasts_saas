@@ -64,7 +64,7 @@ group :development, :test do
   gem 'stripe', '1.16.1'
 
   # Use figaro to hide secret keys
-  gem 'figaro', '1.0.0'
+  #gem 'figaro', '1.0.0'
   
 end
 
